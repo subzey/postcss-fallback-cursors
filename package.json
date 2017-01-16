@@ -1,0 +1,15 @@
+{
+  "name": "postcss-fallback-cursors",
+  "version": "0.1.0",
+  "description": "PostCSS plugin to set fallback cursors for grab, grabbing, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "cursor"
+  ],
+  "author": "Anton Khlynovskiy <subzey@gmail.com>",
+  "license": "WTFPL"
+}
